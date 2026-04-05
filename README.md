@@ -107,4 +107,4 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 **Have fun building!** 🚀
 
-Thia challenge was an awesome expereince. Offering me the opportunity to practice all have learnt on HTML and CSS. Thank you.
+Thia challenge was an awesome expereince. Offering me the opportunity to practice all have learnt on HTML and CSS. Thank you Everyone
